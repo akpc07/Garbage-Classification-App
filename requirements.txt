@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.12.0  # Example version; adjust as necessary
+tensorflow==2.16.1  # Example version; adjust as necessary
 numpy
 pandas
 pillow
