@@ -6,5 +6,5 @@ tensorflow==2.16.1  # ensure it's the right version for your models
 pandas==2.2.3
 numpy==1.26.4
 Pillow==9.4.0  # Required for image processing
-openpyxl==3.0.10  # Required for reading/writing Excel files
+openpyxl==3.0.10 
 
