@@ -1,6 +1,10 @@
-streamlit
+
 tensorflow==2.16.1  # Example version; adjust as necessary
-numpy
-pandas
-pillow
-openpyxl
+
+streamlit==1.14.0  # or the latest compatible version
+tensorflow==2.16.1  # ensure it's the right version for your models
+pandas==2.2.3
+numpy==1.26.4
+Pillow==9.2.0  # Required for image processing
+openpyxl==3.0.10  # Required for reading/writing Excel files
+
