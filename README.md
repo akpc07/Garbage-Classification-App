@@ -1,1 +1,1 @@
-# Garbage-Classification-App
+Garbage Classification for Efficient Waste Management
